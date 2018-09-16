@@ -4,7 +4,7 @@ Programação Paralela e Distribuída
 2018.2  
 Prof. Cidcley T. de Souza (cidcley@gmail.com)  
 
-### Projeto de Sockets
+### Projeto de RMI
 1) Objetivo: Implementar o Jogo de Tabuleiro PONG-HAU-KI em RMI.  
 Obs.: Não deverá haver nenhum Socket na implementação.  
 Esse jogo tem origem na China e se estendeu para alguns países da Ásia como Coréia. O objetivo do jogo é movimentar as peças pelas linhas até que se consiga bloquear o movimento das peças do adversário.
