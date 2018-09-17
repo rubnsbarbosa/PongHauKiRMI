@@ -18,9 +18,9 @@ Esse jogo tem origem na China e se estendeu para alguns países da Ásia como 
 * Reiniciar partida; 
 
 ### Critérios de Avaliação
-Interface do Jogo - GUI (0-10)  
-Interface de Operações (0-10)  
-Implementação de Funcionalidades (0-10)  
+Interface do Jogo - GUI (0-10);  
+Interface de Operações (0-10);  
+Implementação de Funcionalidades (0-10);  
 
 **Trabalho Individual**  
 **Data de Entrega:** 12/09 (nota cheia)  
